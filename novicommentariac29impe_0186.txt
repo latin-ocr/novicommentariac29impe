@@ -1,0 +1,38 @@
+ηε DE NVMERIS PRIMIS
+
+Problema.
+
+Omnium numerorum , qui vnitate excedunt nu-
+
+meros quadratos ., affignare omnes diuisores radicibus
+ipsorum quadratis minores,
+
+SolutiO.
+
+Scribantur ordine omnes numeri ab vnitate ad
+2000, quandoquidem praecedens tabula ad hunc termi-
+num est producta ‚ qui littera a designentur , ita pro
+quouis numeri inde nati aa-i-—r diuisores sint assignan—
+di. Constat autem, hos numeros alios non effe habi·
+turos diuisores primm, nisi formae 4n÷1‚ praecedens
+vero tabula ornnes numeros a exhibet, quorum qua-
+drata vnitate aucta sint per quemque numerum pri·
+mum huius formae diuisibilia. Verum pro quolibet
+numero aa—1-1 sufficit notasse diuisores primos radice
+a minores: quoniam his cognitis etiam diuisores radi-
+ce a maiores sponte innotescunt. Quam ob rem sm-
+gulis numeris a formae 2mss1 adscribatur binarius:
+quia eorum quadrata vnitate aucta sunt per 2 diuisibi-
+iia3 tum numeris azsm-ss 2 adscribatur 5, numeris
+azramsss adscribatur 13, numeris azr7mss4
+adscribatur 17, et ita porr03 vbi quidem valores ipsius
+a minores ipso numero primo proposito omittuntur, quia
+tantum de diuisoribus ipso numero a minoribus quaeri-
+tur. Hoc ergo modo fi ope tabulae praecedentis cuique
+numero a diuisores conuenientes adscribantur, obtine-
+
+buntur omnes diuisores numeri αα-ι-ι ipsa radice a
+minores. Q. E. 1.
+
+Coroll.
+

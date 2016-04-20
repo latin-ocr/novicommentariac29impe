@@ -1,0 +1,44 @@
+36 SPECIMEN
+
+ex qua progressione patet , vnitatem tenere locum hu·
+ius {igni ( ) fi scilicet nullus adsit index.
+
+7. Quemadmodum hae expressiones crescente
+indicum numero vlterius {int continuandae ex formatio-
+nis lege, qua quilibet ex duobus antecedentibus compo-
+nitur, sponte liquet. Est scilicet: ’
+
+(a, b) :b(a)÷1:b(a)-†-()
+
+(a, b, c) :c(a‚ b) -1- (a)
+
+(a, b, e, d) :d(a, lv, c) -†-· (a,b)
+
+(a, b, c, d, e) :e(a, bi c, d) -{- (a, b, c)
+In genere ergo habebitur :
+
+(a, b, c.. ..p, q,r)::r(a, b, c... .p‚ q)-÷-(a, b, c....'p)
+
+quae connexiO, tanquam corollarium definitionis nume·
+rorum , quos hic contemplamur , spectari debet.
+
+8. In euolutione horum valorum , vti ante ξ. 6
+sunt exhibiti, difficulter ratio compofitionis cernitur.
+Poffunt autem ii quoque hoc modo repraesentari:
+
+(a) :a(1)
+
+(ast) :ab(¹··}··a{·)
+
+(a,b,c) :abc(1 4523432-0)
+
+(a‚b,c‚d) :abcd(1 ÷ffig÷ss÷gz÷ss)
+(a2b'c’d>⁶)3ab⁶de(¹†css†z>‘¹c†c'-a†ss÷ffi÷5272÷b÷59
+In his autem denominatoribus occurrunt primo {aaa
+ex binis indicibus contiguis, tum vero producta ex bi-
+
+nis illorum factorum , qui nullutn indicem communem
+inuoluunt, tum sequentur producta ex ternis , quater·
+
+ms
+

@@ -1,0 +1,38 @@
+200 INVESTIGATIO
+Coroll. 1.
+
+59· Eodem modo resolui poterit quaestio latius
+patenS, st P debeat effe funstio quaecunque ipfius V.
+Consideretur enim, spectata y vt constante, haee aequatio
+differentialis dV::de, quae cum, duas tantum varia-
+biles contineat V et x integretur , constanti autem in-
+gressa quantitas y vtcunque inuoluatur.
+
+Coroll. 2.
+
+60. Quia binae variabiles x et y sunt inter se
+permutabiles , eodem modo resoluitur problema ‚ fi Q
+debeat effe functio quaecunque ipsius V.
+
+Problema 16.
+
+61. Existente dedex-l-Qdy, definire indo-
+lxelmn fulndgitoncis V‚· vt P fiat fundtio quaecunque ipla-
+
+Solutio.
+
+Cum igitur P detur per V et x, ss y vt con-
+stantem spestemtts , habebimus hanc aequationem dV
+:3de inter duas variabiles x et V. Integretur ita-
+que ea ‚ et loco constantis in aequationem integralem
+introducatur fune'tio quaecunque ipfius y3 hoc modo ob-
+tinebitur aequatio inter V, x et y, qua indoles funestio-
+nis V per x et y definietur.
+
+CorolL 1.
+
+62. Quaecunque igitur relatio inter ternas quan-
+
+titates V, P et x proponatur , fiue ex ea V per x
+et
+

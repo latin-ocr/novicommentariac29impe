@@ -1,0 +1,57 @@
+ALGORITHMI SINGVLARIS. 67
+
+31. Huiusmodi autem formulae ‚ quot lubuerit,
+{heile sequenti modo exhiberi poffunt3 sumatur tertium
+vinculum, quod est completum, et omnes indices con-
+tinet , abscindantur ab initio superne ii ind-Ices ‚ qui
+primum vinculum constituant, tum inferne a fine ii,
+qui vinculum secundum constituant; ita tamen, vt in
+duobus primis vinculis omnes indices occurrant. Tum
+qui locis absciffis vtrinque sunt vicini pund'to notentur,
+indeque fac—ile huiusmodi formulae exhibentur :
+
+Ἦ la, b, {iz—‘²2' e, fi, dabit
+.(a,b‚c‚d)(c,d,e‚j )·-— (a,b,c,d‚e‚f)(c‚d):..(a)(s)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vt la, ὸ,ῖὶ ld, e, 'ys—‚1 dat ἠ
+(ae,b‚c)(d,e‚f)-(a,b.c,d‚ e,f)1 z—(a,b)(e,s)
+vt ¹a, b, c, ,affl e, f! dat
+
+—————.
+
+·-(a,b‚c‚d>(-d‚e‚s) —(a,b,c‚d‚e‚f )(d) ’Ξ 4· (αῶ) (f)-
+
+32. 'Quodsi ergo in duobus vinculis nulla littera
+bis occurrat , quartum vinculum erit vnitns , vnde se·
+quentes formulae nascuvfur:
+
+{Q b, c) ::(a² bx (c) —4— (a)
+
+Ἴ (a, b, c) zm) (b, c) —†- (c)
+
+Y(a‚ b‚c,d): (a,b,c)-'d) ·†- (a,b)
+
+(a, b,c d)::(a,b) (c,d)—1-(a)(d)
+
+ἶια, b, c,d): (a)(b,c‚d) —†- (c‚ d)
+ς’ (a, b‚c‚d,e):(a‚b‚c,d)(e)—†- (a,b, c)
+⁴ (a, b, aad, e) :- (a, b, c) (d, e) —†- (a‚b) (e)
+
+, (a, b, c, d‚e) :z (a, b)(c, d, e) -ἦ- (α) (dx)
+L (a, b, c, d, e)..··: (a)(b,c‚d‚ e) ÷<e,d, e) ⁴
+1 2 (a,b‚e,
+

@@ -1,0 +1,43 @@
+20 DE RESOLVTIONE
+
+vbi pibo quolibet valore ipsius x etiam poni potest
+—x-p
+
+Scholion 1.
+
+25. Cum hoc modo ex vna solutione in inte-
+gris cognita , infinitae aliae solutiones etiam in integris
+eliciantur , quaestio nascitur ‚ an hoc modo omnes pla-
+ne solutiones integrae obtineantur, nec ne? Acin exem-
+plis quidem primo et secundo nullum erit dubium,
+quin hac methodo· omnes solutiones integrae obtinean-
+tur. Verum in exemplo tertio vtique dantur casuS,
+quibus multo plures solutiones in integris exhiberi pos-
+sunt, quam quidem hac methodo reperiuntur. Veluti
+si proposita fuerit formula V(5xx—†-4l::y, quae
+pro casu cognito praebet azo et bza ‚ nostra so-
+lutio dat ε
+
+Valores ipsius x· Valores ipsius y
+
+ 
+
+Ο 2
+
+8 Ι 1 8
+144 322
+25 34 Ι 5 778
+ete. ete.
+
+Verum hanc formulam diligentius scrutanti patebit, non
+solum his casibusv V(5 xx-—t— 4) fieri rationalem, sed
+etiam istis numeris pro x substituendis
+
+,παῖ-,0, 1, 3, 8, 21, 5⁴5, 144, 377, 987, etc.
+vnde solutionum numerus triplicatur. Cuius rei ratio
+est, quod ad formulam pzv‘(5qq—}-·1) resoluendam
+potuimus qz43 vnde fit p:2:9‚ quae quidem est sim⁴
+pliciffirna solutio in numeris integriS. At quoniam in
+
+scala
+

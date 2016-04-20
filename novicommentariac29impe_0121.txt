@@ -1,0 +1,41 @@
+ALGORITHMI SINGVLARIS. 55
+
+tantum ex duobus a, et b. Inferiores autem numeri
+primum indicem a plane non inuoluunt, sed ex reliss
+quis b, c, d aequali lege formantur.
+
+5. Quoniam igitur ratio formationis ex in.
+(ficibus, tam pro numeratoribuS, quam pto denomi-
+natoribus , est eadem ‚ ac datis indicibus numerus inde
+formatus innotescit , hos ipsos numeros² quatenus ex in-
+dicibus sunt formati , hic sum contemplaturus , eorum-
+que algorithmum traditurus, Propofitis antem indicibus
+
+quibuscunque et quotcunque a, b, c, d, numerum ex
+iis formatum hoc modo (a, h, c, d) denotabo, eritque
+ergo euolutione instituta:
+
+(a, b, c, d):abcd—†—cd-l-ad-l-ab÷1
+
+fimilique modo pro denominatoribus indicem primum
+a omittendo
+
+(b, c, d) z: bed-i-d-4—b.
+
+6. Haec ergo teneatur definitio signorum ( )‚ in*
+ter quae indices ordine a sinistra ad dextram scribere
+constitui; atque indices hoc modo clausulis inclusi in-
+posterum denotabunt numerum ex istis indicibus for-
+
+giatum. Ita a simpliciffimis casibus inchoando 2 habe7
+imus:
+
+(a,b,c) :abc-i-c4a
+
+(a, b, c‚d) :abed-{- cd÷ad÷ab÷ ι
+
+(a,b, c, d, e)=abcde-l-cde—1-ade÷abe÷aba·÷e-i-c÷a
+etc.
+
+⁶1
+

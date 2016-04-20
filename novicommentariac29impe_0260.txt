@@ -1,0 +1,39 @@
+‚188 INVESTIGATIO
+
+confistit ‚ quod valorem differentialis dV ad duas alias
+variabiles s ety ,’ scilicet clv-:Rds—i-Tdy, reuocaui,
+cuius alterum membrum Tdy absolute datur, vnde pro-
+blema ad primum genus pertinet, in quo binarum quanti-
+tatum P et Q alterutra est cognita. Huiusque artificii ope
+problema sequens multo latius patens resolui poterit.
+
+Problema 11..
+
+40. Si smt p et t functiones datae quaecunque
+binarum variabilium x et y ‚ definire indolem fundtioa
+
+nis V, vt posito dede÷Qdy fit Qsz-i—t.
+
+Solutio.
+
+Habebitur ergo ‚ substituto pro Q isto valore:
+dvzp(dx÷pdy)÷tdy
+vbi pro formula differentiali dx÷pdy iterum „idoneus
+multiplicator q quaeratur ‚ qui eam integrabilem red-
+dat. Sit ergo q(dx-÷-pdy)::ds‚ et iam quantitas s
+tanquam noua variabilis introducatur , per quam et y
+altera variabilis x definiatur. Hoc modo x aequabitur
+cuipiam funstioni datae ipsarum s et y, quae int vbi-
+que loco x scribatur, ficque fiet t functio quoqued data
+
+ipsarum s et y Cum ergo ob dx—Js—pdy: .5⁵ fit
+
+de-ds-l-tdy, erit V eiusmodi func‘tio ipsarum
+s et y, quae spectata s vt constante differentiata prae·
+beat tdy, quare viciffim pro funetione V inuenienda
+integretur formula differentialis tdy, spestata s vt con-
+flante, fit integrale hoc modo proueniens stdy:T ,
+quod igitur etiam datur , tum quia quantitas P non
+
+datur,
+

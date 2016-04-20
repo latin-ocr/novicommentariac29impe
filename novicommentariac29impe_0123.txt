@@ -1,0 +1,46 @@
+ALGORITHMI SINGVLARIS. 57
+
+nis etc. combinationibus ‚ quae nullum implicant indi-
+cem communem3 vnde ratio compofitionis iam fit
+
+perspicua.
+
+9. Ex hac euolutione iam manifestum est , fi
+indices ordine retrogrado disponantur , eosdem plane
+prodire numeros inde formatOS. Erit scincet
+
+(a, b) :2 (b, a)
+
+(a, b, c) :z (c, b, a)
+
+(a, b, c, d) r: (d, c, b, a)
+
+(a, b, c, d, e): (e‚‘d‚ c, b, a). ἢ
+Dummodo ergo ordo indicum detur , fiue fit diree'tus ,
+fiue retrogradu5‚ perinde est3 Vtroque enim modo idem
+numerus inde formatus obtinetur.
+
+10. Hinc ergo sequitur ‚ fore formulas ξ. 7 hoc
+
+modo inuertendo 2
+
+(a, b) ··.;; a (h) 4- 1⁴
+
+(a, b, c) Ξ a (b, c) —1- (C)
+
+(a, b, c, d) ε a (by, d) -ὶ- (0, d)
+
+(a, b* c, d e) z a (b, c, ‘l‚ 8) -†- (c, d‚e)
+atque in genere erit pro quotcunque indicibus ε
+
+(a, b, e, d, etc.) 3 a (b, c, d, etc ) -i- (c, d, ete.)
+
+11. Si ergo ponatur:
+(a, b, c, d, e, etc.) :- A
+(b, c, d, e, etc.) z: B
+(c, d, e, ete.):C
+(d, e, etc.) Ξ D
+(ε’, etc.) z: E
+
+‘ Tom. IX. Nou. Comm. H habe-4
+
